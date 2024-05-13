@@ -1,10 +1,10 @@
 <h1> Jogo Número Secreto </h1>
   
-  <h2>Sobre</h2>
+  <h2>🏷️Sobre</h2>
   <p>Projeto utilizado no curso de Git / GitHub da Alura</p>
 
  
-  <h2>Tecnologias</h2>
+  <h2>🚀Tecnologias</h2>
   
   <div>
     
@@ -17,7 +17,7 @@
     
   </div>
 
-  <h2>Time</h2>
+  <h2>👩‍💻Time</h2>
 
   ![image](https://github.com/Edivania88Duarte/jogo-numero-secreto/assets/120994730/c7651b7f-cbd4-41bf-a995-f766fcf3c462)
 
